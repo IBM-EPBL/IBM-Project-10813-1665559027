@@ -3,8 +3,11 @@ A Novel Method for Handwritten Digit Recognition System
 
 TEAM MEMBERS
 M.NASMA (TEAM LEAD)
+
 A.ABITHA (TEAM MEM 1)
+
 M.ABILA (TEAM MEM 2)
+
 M.PRASANTHINI (TEAM MEM 3)
 
 PROJECT DESCRIPTION :
